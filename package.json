@@ -18,7 +18,7 @@
     "redux-devtools-extension": "^2.13.8",
     "redux-thunk": "^2.3.0"
   },
-  "homepage": "https://sumiit293.github.io/sumiit293/IT-Logger",
+  "homepage": "https://sumiit293.github.io/it-lodger",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
